@@ -1,6 +1,8 @@
 # **Python for Data Analysis - Final Project**
 ### By Julie HIGELIN & Rémi LOMBARD
 
+## [Dataset](https://archive.ics.uci.edu/ml/datasets/Drug+consumption+%28quantified%29) we used
+
 ## How to get set up 
 ### Using Anaconda :
 #### - Download ```requirements.txt```
