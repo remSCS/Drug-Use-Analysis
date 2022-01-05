@@ -21,3 +21,4 @@
 ### The previous redirection is the "index" of our API.
 
 ## You can find our PowerPoint Presentation [here](Python-Project-Report.pdf)
+## You can find our Jupyter Notebook [here](src/Analysis/Analyze.ipynb)
